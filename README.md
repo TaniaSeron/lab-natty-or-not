@@ -1,51 +1,22 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# O futuro do ISS (Imposto sobre Serviços) após a última reforma tributária no Brasil 
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+A reforma tributária aprovada em 2023 no Brasil traz grandes mudanças no sistema de impostos do país envolvendo o ISS (Imposto Sobre Serviços) que será gradualmente substituído pelo IBS (Imposto sobre Bens e Serviços), mudando a forma como os impostos são cobrados, tanto para as empresas quanto para os consumidores.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa ChatGPT para roteirização
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O conteúdo foi desenvolvido para explicar as mudanças de maneira clara e direta para garantir que o público-alvo (consumidores e empresas) entendesse as novidades sem dificuldades. As alterações nas regras foram explicados de forma a dar clareza sobre os benefícios e os desafios que surgem com a reforma.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+A nova reforma tributária trouxe um sopro de ar fresco para o sistema tributário, tornando-o mais organizado e previsível. A principal mudança foi a criação do IBS em substituição gradual ao ISS, simplificando  e unificando as alíquotas cobradas. Essas medidas visam a facilitar a vida das empresas, reduzindo a burocracia e aumentando a transparência.
+Embora os benefícios sejam claros, a adaptação às novas regras exige tempo e planejamento.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+A comunicação de temas complexos, como a reforma tributária, exige habilidade e criatividade. A inteligência artificial (IA) mostrou-se uma ferramenta poderosa nesse sentido, ao simplificar informações técnicas e torná-las mais acessíveis a um público amplo.
+Ao criar conteúdos sobre a reforma, a IA foi capaz de isolar as informações mais relevantes para os contribuintes, como a simplificação do ISS. Essa abordagem permite que as pessoas entendam rapidamente o impacto da reforma em seus negócios, sem se perder em detalhes técnicos.
+A IA demonstrou ser um aliado valioso na comunicação de temas complexos, como a reforma tributária. Ao combinar precisão e clareza, a IA contribui para uma melhor compreensão das mudanças e facilitar a adaptação das empresas.
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
